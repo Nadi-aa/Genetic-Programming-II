@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Unity Projects\\Genetic Programming 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|c:\\unity projects\\genetic programming 2\\assets\\scripts\\populationmanager_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\populationmanager_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|c:\\unity projects\\genetic programming 2\\assets\\scripts\\brain_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brain_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|c:\\unity projects\\genetic programming 2\\assets\\scripts\\dna_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1B2FE4-A743-37D1-C3A9-F97A07778EC3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dna_sc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DNA_sc.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\DNA_sc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DNA_sc.cs",
+              "ToolTip": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\DNA_sc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DNA_sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:42.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brain_sc.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\Brain_sc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brain_sc.cs",
+              "ToolTip": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\Brain_sc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brain_sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:06:45.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PopulationManager_sc.cs",
+              "DocumentMoniker": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\PopulationManager_sc.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PopulationManager_sc.cs",
+              "ToolTip": "C:\\Unity Projects\\Genetic Programming 2\\Assets\\Scripts\\PopulationManager_sc.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PopulationManager_sc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T08:39:16.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
